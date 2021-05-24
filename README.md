@@ -1,1 +1,2 @@
-# car-racing-game-37
+# synchronousBallMovement
+Ball moving synchronously
